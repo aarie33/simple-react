@@ -1,3 +1,13 @@
+## ARIE NOTES
+npx create-react-app . <br />
+npm install react-bootstrap  bootstrap <br />
+npm i --save @fortawesome/fontawesome-svg-core  @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome<br />
+npm i react-router-dom<br />
+npm i axios<br />
+<br />
+
+## DEFAULT
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
